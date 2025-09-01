@@ -1,4 +1,4 @@
-IPL Dataset Deep Fake Video Project
+Lacrosse Dataset Deep Fake Video Project
 1. Objective
 
 The goal of this project was to take insights from an Lacrosse matches dataset and transform them into a short, AI-generated “deep fake” style interview video. I used Google Flow (Labs) to create cinematic interview clips where a news anchor asks questions and a Lacrosse coach provides data-driven answers.
@@ -40,11 +40,10 @@ To make longer videos, I exported multiple 7-second clips and planned to stitch 
 
 3. Challenges & Learnings
 
-Policy Restriction: Could not directly name IPL players or franchises without Flow blocking generation. Had to generalize wording.
 
 Length Restriction: Each generated video capped around 7 seconds. Needed to break analysis into micro-clips.
 
-Scene Design: Flow responded better when I clearly described scenes (“Anchor in studio with IPL logo”, “Coach with chart animation”).
+Scene Design: Flow responded better when I clearly described scenes (“Anchor in studio with logo”, “Coach with chart animation”).
 
 4. Final Outcome
 
